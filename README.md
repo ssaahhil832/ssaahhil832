@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web pages build-up
 - 📫 you can reach me through my email id : sorakayalapetasahilkhan@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I use ai tools most of the time to develpe my skills.
+- ⚡ Fun fact: I use ai tools most of the time to develope my skills.
 
 <!---
 ssaahhil832/ssaahhil832 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
